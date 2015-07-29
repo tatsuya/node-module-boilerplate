@@ -1,0 +1,16 @@
+{
+  "name": "<%= moduleName %>",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "author": {
+    "name": "<%= name %>",
+    "email": "<%= email %>"
+  },
+  "license": "MIT"
+}
