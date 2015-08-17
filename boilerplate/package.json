@@ -9,8 +9,8 @@
     "mocha": "^2.2.5"
   },
   "author": {
-    "name": "<%= name %>",
-    "email": "<%= email %>"
+    "name": "Tatsuya Oiwa",
+    "email": "tatsuyaoiw@gmail.com"
   },
   "license": "MIT"
 }
